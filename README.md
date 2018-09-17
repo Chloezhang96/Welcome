@@ -1,4 +1,5 @@
-Welcome to my Github page! 
+# Welcome to my Github page!
+
 My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I recently graduated from UC Davis with double degree in Economics and Applied Statistics. I decided to collect the data science and data analysis projects I've done during the college. 
 
 
