@@ -2,10 +2,10 @@
 
 
 
-
-My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I recently graduated from UC Davis with double degree in Economics and Applied Statistics. I decided to collect the data science and data analysis projects I've done during the college. 
-
-
+## About me
+My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I recently graduated from UC Davis with double degree in Economics and Applied Statistics. I frequently ask myself what I have learned from my majors especially from structured and rigid statistics and how I can apply my skills in a workplace. 
+During my fourth year, I became very curious about data science after taking few data science classes. 
+The 
 ```markdown
 Syntax highlighted code block
 
