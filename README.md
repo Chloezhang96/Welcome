@@ -11,11 +11,12 @@ My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for ta
 
 In this course, I've done data extraction through web scraping, api calls, and thorough exploratory data analysis involving visualization and statistical and machine learning techniques. 
 
-To explore more: 
+To explore more:
+
 [Exploration of SF data](https://github.com/Chloezhang96/github-page/blob/master/hw5.ipynb)
 I analyzed a collection of data sets from the San Francisco Open Data Portal and Zillow. By asking few questions that I am interested in, I explored the dataset and found some interesting findings about SF crime rates and housing price. I used SQL to extract and read information. To better illustrate the findings, I applied maps from Geopandas by matching Zipcodes and matplotlib to compare the results. 
 
-[Exploration of Aggie News]()
+[Exploration of Aggie News](https://github.com/Chloezhang96/github-page/blob/master/hw6.ipynb)
 In this project, I scraped text from the website [The California Aggie](https://theaggie.org/) and then analyzed the text. The goal of this project is to practice data extraction, visualization and natural language processing. 
 
     
