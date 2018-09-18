@@ -9,7 +9,7 @@ My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for ta
 
 ### Stats 141B : Data & Web Technologies for Data Analysis
 
-In this course, I've done data extraction through web scraping, api calls, and thorough exploratory data analysis involving visualization and statistical and machine learning techniques. In one project, to explore more: [document](https://github.com/Chloezhang96/github-page/hw5.ipynb), I analyzed a collection of data sets from the San Francisco Open Data Portal and Zillow. By asking few questions that I am interested in, I explored the dataset and found some interesting findings about SF crime rates and housing price. I used SQL to extract and read information. To better illustrate the findings, I applied maps from Geopandas by matching Zipcodes and matplotlib to compare the results. Under each question, I wrote the analysis of the findings
+In this course, I've done data extraction through web scraping, api calls, and thorough exploratory data analysis involving visualization and statistical and machine learning techniques. In one project, to explore more: [Exploration of SF data](https://github.com/Chloezhang96/github-page/blob/master/hw5.ipynb), I analyzed a collection of data sets from the San Francisco Open Data Portal and Zillow. By asking few questions that I am interested in, I explored the dataset and found some interesting findings about SF crime rates and housing price. I used SQL to extract and read information. To better illustrate the findings, I applied maps from Geopandas by matching Zipcodes and matplotlib to compare the results. Under each question, I wrote the analysis of the findings
 
       github-page/hw5.ipynb
     
