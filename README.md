@@ -3,9 +3,15 @@
 
 
 ## About me
-My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I recently graduated from UC Davis with double degree in Economics and Applied Statistics. I frequently ask myself what I have learned from my majors especially from structured and rigid statistics and how I can apply my skills in a workplace. 
-During my fourth year, I became very curious about data science after taking few data science classes. 
-The 
+My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I recently graduated from UC Davis with double degree in Economics and Applied Statistics. During my fourth year, I became very curious about data science after taking few data science classes. Data Science is such a powerful tool to discover useful insights and translate data findings into actionable strategies. I'm excited to learn all aspects of data science and to become a data scientist one day in the future. 
+
+## My Projects
+
+# Stats 141B : Data & Web Technologies for Data Analysis
+
+In this course, I've done data extraction through web scraping, api calls, and thorough exploratory data analysis involving visualization and statistical and machine learning techniques. In one project, 
+
+
 ```markdown
 Syntax highlighted code block
 
