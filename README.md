@@ -23,3 +23,5 @@ In this project, I scraped text from the website [The California Aggie](https://
 ### Stats 141A: Fundamentals of Statistical Data Science 
 
 This course introduces computing for data analysis and visualization, and simulation, using a high-level language such as R. I learned computational reasoning, statistical modeling, reading tabular and non-standard data. 
+
+[Handwritten Digit Recognition](https://github.com/Chloezhang96/Welcome/blob/master/Sample%20Project%20of%20analysis%20.pdf) 
