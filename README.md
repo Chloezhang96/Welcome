@@ -24,4 +24,5 @@ In this project, I scraped text from the website [The California Aggie](https://
 
 This course introduces computing for data analysis and visualization, and simulation, using a high-level language such as R. I learned computational reasoning, statistical modeling, reading tabular and non-standard data. 
 
-[Handwritten Digit Recognition](https://github.com/Chloezhang96/Welcome/blob/master/Sample%20Project%20of%20analysis%20.pdf) 
+[Handwritten Digit Recognition](https://github.com/Chloezhang96/Welcome/blob/master/Final%20Project%20--%20STA141A.pdf)
+In the past, postal workers sorted mail by hand, which was tedious and expensive. Then to improve efficiency and save costs, USPS has switched to automated mail sorting, using statistical classifiers to identify the individual digits in the zip code on each piece of mail. In this project, I implemented the k-nearest neighbors algorithm for classifying handwritten digits in zip codes.
