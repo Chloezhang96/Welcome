@@ -20,4 +20,6 @@ I analyzed a collection of data sets from the San Francisco Open Data Portal and
 In this project, I scraped text from the website [The California Aggie](https://theaggie.org/) and then analyzed the text. The goal of this project is to practice data extraction, visualization and natural language processing. 
 
     
-    
+### Stats 141A: Fundamentals of Statistical Data Science 
+
+This course introduces computing for data analysis and visualization, and simulation, using a high-level language such as R. I learned computational reasoning, statistical modeling, reading tabular and non-standard data. 
