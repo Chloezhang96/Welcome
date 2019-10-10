@@ -3,7 +3,7 @@
 
 
 ## About me
-My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I recently graduated from UC Davis with double degree in Economics and Applied Statistics. During my fourth year, I became very curious about data science after taking few data science classes. Data Science is such a powerful tool to discover useful insights and translate data findings into actionable strategies. I'm excited to learn all aspects of data science and to become a data scientist one day in the future. 
+My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for taking time to visit my Github page. I am a first year graduate student in Statistical Science at University of California Santa Cruz. During this summer, I had chance to work at iFlytek, a key supplier of intelligent speech technologies, as a deep learning research intern. From this internship, I learned some fundemental concepts of deep learning especially in the field of optical character recognition. I was also engaged in several projects such as using synthetic text dataset in natual scene to optimize recognition accuracy, robust reading on signboard and etc. This learning journey for the past few months has been nothing but truthfully challenging and fulfilling, and reaffirmed my passion in data science. Data Science is such a powerful tool to discover useful insights and translate data findings into actionable strategies. I'm excited to learn all aspects of data science especially the aspects of deep learning and to become a data scientist one day in the future. 
 
 ## My Projects
 
