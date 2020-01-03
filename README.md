@@ -12,9 +12,10 @@ During my senior year of undergraduate study, I was involved in some data scienc
 
 The past few decades have witnessed a fast expansion of digital journalism. People nowadays read, create, and share articles on the Internet. How can journalists optimize their contents to receive more views and shares from audiences? 
 
-Our project aims to answer this question by exploring a dataset collected from Mashable news. The dataset consists of features and number of shares for each sample online news. We use simple linear regression models and logistic regression models to get robust estimation on features’ effect on the popularity of online news. A careful model selection is performed using AIC as criteria. The result shows that online news with strong title, positive attitude, more visuals and simple format tend to be more popular, and the popularity differs by the channels and published day. 
+To explore more, you can check out our final report with data preparation, EDA, modeling and evaluation in details: 
+[Popularity of Online News](https://github.com/Chloezhang96/Welcome/blob/master/final%20report.pdf) 
 
-To explore more: 
+Our project aims to answer this question by exploring a dataset collected from Mashable news. The dataset consists of features and number of shares for each sample online news. We use simple linear regression models and logistic regression models to get robust estimation on features’ effect on the popularity of online news. A careful model selection is performed using AIC as criteria. The result shows that online news with strong title, positive attitude, more visuals and simple format tend to be more popular, and the popularity differs by the channels and published day. 
 
 
 
