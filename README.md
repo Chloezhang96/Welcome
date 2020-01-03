@@ -8,7 +8,17 @@ During my senior year of undergraduate study, I was involved in some data scienc
 
 ## My Projects
 
-### Stats 141B : Data & Web Technologies for Data Analysis
+### Discovering Factors Leading to Popular Online News 
+
+The past few decades have witnessed a fast expansion of digital journalism. People nowadays read, create, and share articles on the Internet. How can journalists optimize their contents to receive more views and shares from audiences? 
+
+Our project aims to answer this question by exploring a dataset collected from Mashable news. The dataset consists of features and number of shares for each sample online news. We use simple linear regression models and logistic regression models to get robust estimation on features’ effect on the popularity of online news. A careful model selection is performed using AIC as criteria. The result shows that online news with strong title, positive attitude, more visuals and simple format tend to be more popular, and the popularity differs by the channels and published day. 
+
+To explore more: 
+
+
+
+### Stats 141B : Data & Web Technologies for Data Analysis 
 
 In this course, I've done data extraction through web scraping, api calls, and thorough exploratory data analysis involving visualization and statistical and machine learning techniques. 
 
