@@ -7,7 +7,12 @@ My name is Yuxin Zhang. You can also call me Chloe! I'd like to thank you for ta
 During my senior year of undergraduate study, I was involved in some data science projects. I'm happy to share my projects and the reports with you all! 
 
 ## My Projects
+### A Bayesian Analysis on Mortality Rate of Covid-19 in California 
 
+With the dramatic spread in the novel Covid-19, the World Health Organization (WHO)and many countries have been tracking the latest data on number of confirmed cases over the past few months. As more number of data sets become accessible, data scientists around the world are conducting analyses, building up algorithms and making prediction. It is inevitably that Bayesian inference will play a big part of it. Bayesian modeling can be applied to efficiently analyze the growth of Covid-19.
+
+This paper presents the a naive analysis of the Covid-19 data in the state of California, with 58 counties. The data includes population,
+total cases confirmed and numbers of deaths in each county. The focuses of interest are on the rate of mortality, and infection rate corresponding to each county. Using Bayesian analysis approaches, we propose two models in this paper, compare their prediction and assess the validity of each model. 
 ### Discovering Factors Leading to Popular Online News 
 
 The past few decades have witnessed a fast expansion of digital journalism. People nowadays read, create, and share articles on the Internet. How can journalists optimize their contents to receive more views and shares from audiences? 
